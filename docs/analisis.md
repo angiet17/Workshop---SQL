@@ -7,7 +7,7 @@ Este documento detalla los hallazgos, el diagnóstico administrativo y las propu
 ## 1. Diagnóstico Estudiantil y Desempeño (Fase 1)
 Tras auditar la tabla `AD_EXAM_RESULTS` y cruzarla con `AD_STUDENT_DETAILS`, se han identificado los siguientes puntos clave:
 
-- **Indicador de Calificaciones**: El promedio histórico de ciertos exámenes críticos presenta una tendencia a la baja (ver métricas en `punto1.sql`).
+- **Indicador de Calificaciones**: El promedio histórico de ciertos exámenes críticos presenta una tendencia a la baja (ver métricas en `Punto1.sql`).
 - **Problema de Integridad**: Se detectaron registros sin correo institucional (email null) o sin año de registro, lo que dificulta la comunicación directa con el estudiante.
 - **Relación Asistencia/Nota**: Al integrar la tabla `AD_STUDENT_ATTENDANCE`, se observa una correlación directa entre los días asistidos y el puntaje obtenido en evaluaciones parciales.
 
