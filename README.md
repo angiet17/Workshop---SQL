@@ -1,7 +1,7 @@
 # Workshop-SQL
 En este repositorio se desarrollará el taller utilizando Oracle Live SQL con la base de datos Academic (AD)
 
-# Taller de Base de Datos Academic (AD) - Oracle Live SQL
+##Taller de Base de Datos Academic (AD) - Oracle Live SQL
 
 El objetivo es analizar el rendimiento académico de los estudiantes y la capacidad administrativa de las facultades para proponer mejoras institucionales.
 
