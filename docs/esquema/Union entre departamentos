@@ -1,0 +1,3 @@
+Join,Columna_Enlace,Objetivo
+CURSO-DEP,DEPARTMENT_ID,Agrupar materias por facultad
+DOCENTE-DEP,DEPARTMENT_ID,Identificar lideres de area (HOD)
