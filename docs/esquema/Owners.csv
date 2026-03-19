@@ -1,0 +1,4 @@
+Owner_ID,Nombre_Esquema,Entorno,Descripcion
+AD,Academic Database,Oracle Live SQL,Esquema principal para la gestion educativa
+SYS,Sistema Oracle,Interno,Mantenimiento y administración de objetos
+ANST,Analista Academico,Prueba,Rol asignado para ejecucion de reportes
