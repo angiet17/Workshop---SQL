@@ -4,7 +4,7 @@ Este documento detalla los hallazgos, el diagnóstico administrativo y las propu
 
 ---
 
-## 1. Diagnóstico Estudiantil y Desempeño (Fase 1)
+## 1. Diagnóstico Estudiantil y Desempeño (Punto 1)
 Tras auditar la tabla `AD_EXAM_RESULTS` y cruzarla con `AD_STUDENT_DETAILS`, se han identificado los siguientes puntos clave:
 
 - **Indicador de Calificaciones**: El promedio histórico de ciertos exámenes críticos presenta una tendencia a la baja (ver métricas en `Punto1.sql`).
@@ -15,7 +15,7 @@ Tras auditar la tabla `AD_EXAM_RESULTS` y cruzarla con `AD_STUDENT_DETAILS`, se 
 
 ---
 
-## 2. Gestión de Capacidad Administrativa (Fase 2)
+## 2. Gestión de Capacidad Administrativa (Punto 2)
 El análisis de carga operativa por facultad y departamento revela:
 
 - **Saturación Docente**: Algunos profesores gestionan más de 5 cursos simultáneamente (detectado mediante el conteo en `AD_FACULTY_COURSE_DETAILS`), lo que puede afectar la calidad educativa.
