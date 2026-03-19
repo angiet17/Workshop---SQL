@@ -1,0 +1,7 @@
+Nombre_Tabla,Descripcion
+AD_STUDENT_DETAILS,Informacion personal y de contacto de los alumnos
+AD_COURSE_DETAILS,Catalogo de materias creditos y responsables
+AD_EXAM_RESULTS,Resultados porcentajes y calificaciones obtenidas
+AD_FACULTY_DETAILS,Detalles de los docentes y su jerarquia (HOD)
+AD_DEPARTMENTS,Unidades academicas y sus lideres de area
+AD_STUDENT_COURSE_DETAILS,Relacion de inscripciones estudiante-materia
