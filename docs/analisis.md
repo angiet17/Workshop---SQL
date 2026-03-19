@@ -26,7 +26,7 @@ El análisis de carga operativa por facultad y departamento revela:
 
 ---
 
-## 3. Planificación y Proyección (Temporada Académica)
+## 3. Planificación y Proyección (Punto 3)
 Preparación para la nueva temporada académica mediante la unificación de datos históricos:
 
 - **Limpieza de Datos**: Se identificaron registros duplicados en `AD_COURSE_DETAILS` (mismo curso en la misma sesión). Es imperativo depurar la base antes del nuevo ciclo.
