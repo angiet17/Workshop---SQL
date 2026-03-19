@@ -1,0 +1,4 @@
+Tipo,Longitud_Max,Uso_Comun
+VARCHAR2,4000 caracteres,Nombres correos direcciones
+NUMBER,38 digitos,Codigos IDs calificaciones
+DATE,-,Fechas de registro o cierre
